@@ -1,0 +1,13 @@
+{
+  "name": "hl7.fhir.cr.template",
+  "version": "0.1.0",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "Template for HL7 Costa Rica Implementation Guides",
+  "author": "https://hl7.or.cr",
+  "canonical": "https://fhir.hl7.or.cr/template",
+	"base":  "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}
