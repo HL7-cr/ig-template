@@ -1,0 +1,7 @@
+toc:
+  - name: Introducción
+    file: index.html
+  - name: Descarga
+    file: downloads.html
+  - name: Artefactos
+    file: artifacts.html

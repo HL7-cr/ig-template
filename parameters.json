@@ -1,0 +1,7 @@
+{
+  "path-template": "https://hl7.or.cr/fhir/ig/template",
+  "license": "CC-BY-4.0",
+  "publisher": "HL7 Costa Rica",
+  "copyrightyear": "2025+",
+  "show-inherited-invariants": true
+}

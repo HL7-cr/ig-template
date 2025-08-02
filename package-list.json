@@ -1,0 +1,14 @@
+{
+  "package-id": "hl7.fhir.cr.template",
+  "canonical": "https://hl7.or.cr/fhir/ig/template",
+  "title": "Template HL7 FHIR R5 - Costa Rica",
+  "description": "Template estructural para las guías FHIR desarrolladas en Costa Rica",
+  "list": [
+    {
+      "version": "1.0.0",
+      "desc": "Primera versión del template",
+      "path": "https://hl7.or.cr/fhir/ig/template",
+      "status": "active"
+    }
+  ]
+}
